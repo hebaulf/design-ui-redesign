@@ -11,3 +11,12 @@ For the colors I wanted to stray away from the deep green and red and opt for a 
 <br>
 
 ## Redesign principles used in project
+
+I used a 14 column grid to position and align elements in the design.
+I used
+
+<img src="assets/front-page.png" alt="Front page design" width="300"/>
+<img src="assets/menu_pizzas.png" alt="Menu page for pizzas design" width="300"/>
+<img src="assets/menu_drinks.png" alt="Menu page for drinks design" width="300"/>
+<img src="assets/about-us.png" alt="About us page" width="300"/>
+<img src="assets/contact-us.png" alt="Contact us page" width="300"/>
